@@ -1,4 +1,4 @@
-# Neovim lua files
+# Neovim config
 
 Location 
  - Mac, Linux <br />
