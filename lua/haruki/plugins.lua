@@ -46,6 +46,11 @@ return require('packer').startup({
         use 'tpope/vim-rhubarb'
         use 'airblade/vim-gitgutter'
 
+        ----------------------
+        -- AUTO COMPELETION --
+        ----------------------
+        use {'neoclide/coc.nvim', branch = 'release'}
+
     end,
     config = {
         display = {
