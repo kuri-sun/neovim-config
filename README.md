@@ -8,6 +8,7 @@
   
 
 2. in .config folder run
+
 """
 -- Linux, Unix
 
