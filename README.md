@@ -2,6 +2,7 @@
 
 Location 
  - Mac, Linux <br />
-  HOME/.config/(HERE)
+  HOME/.config/nvim
  - Windows <br />
-  I don't know. look it up.
+  HOME/App/Local/nvim (run %App% in command prompt)
+  
