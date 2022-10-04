@@ -9,7 +9,7 @@
 
 2. in .config folder run
 
-"""
+```
 -- Linux, Unix
 
 git clone --depth 1 https://github.com/wbthomason/packer.nvim\
@@ -19,7 +19,7 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 
 git clone https://github.com/wbthomason/packer.nvim "$env:LOCALAPPDATA\nvim-data\site\pack\packer\start\packer.nvim"
  
-"""
+```
 
 3. you can do sourcing in plugin.lua, and run PackerSync command.
 
