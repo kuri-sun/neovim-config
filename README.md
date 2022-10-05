@@ -27,6 +27,10 @@ git clone https://github.com/wbthomason/packer.nvim "$env:LOCALAPPDATA\nvim-data
 ref: https://github.com/wbthomason/packer.nvim
 
 
+### 4. YOU ARE READY.
+<br />
+<br />
+
 
 🎃 If you add some more configurations and plugins, pls check this article out! <br/>
 ref: https://www.chrisatmachine.com/blog/category/neovim/12-git-integration
