@@ -44,7 +44,7 @@ return require('packer').startup({
         ----------------------
         use 'tpope/vim-fugitive'
         use 'tpope/vim-rhubarb'
-        use 'airblade/vim-gitgutter'
+        use 'mhinz/vim-signify'
 
         ----------------------
         -- AUTO COMPELETION --
