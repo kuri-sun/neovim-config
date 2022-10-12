@@ -4,7 +4,7 @@
  - Mac, Linux <br />
   HOME/.config/nvim
  - Windows <br />
-  HOME/App/Local/nvim (run %App% in command prompt)
+  I don't know dude. (future will be updated)
   
 
 ### 2. Packer install in your local machine.
@@ -17,17 +17,14 @@ git clone --depth 1 https://github.com/wbthomason/packer.nvim\
 ```
 
  Windows  
-
-```
-git clone https://github.com/wbthomason/packer.nvim "$env:LOCALAPPDATA\nvim-data\site\pack\packer\start\packer.nvim"
-```
+Look it up dude. (future will be updated)
 
 ### 3. you can do :so in plugin.lua, and run :PackerSync.
 
 ref: https://github.com/wbthomason/packer.nvim
 
 
-### 4. YOU ARE READY.
+### 4. YOU ARE READY. if you are windows, you are not.
 <br />
 <br />
 
